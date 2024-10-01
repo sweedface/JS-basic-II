@@ -112,14 +112,20 @@ const names = ['Rocío', 'Lola', 'Antía', 'Laura', 'Noelia']
 //Escribe tu código aquí
 
 
+//Arrays
 
-//Ejercicio 16: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
+//Ejercicio 16: Crea una constante llamada postres con un tipo de dato array que contiene los siguientes elementos: helado, tarta, pastel e imprímelo en la consola. 
+
+//Escribe tu código aquí
+
+
+//Ejercicio 17: Crea una constante con un tipo de dato objeto llamado coder que contengan dos propiedades, nombre y edad e imprímelo en la consola.
 
 //Escribe tu código aquí
 
 
 
 
-//Ejercicio 17: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
+//Ejercicio 18: Busca como imprimir en consola el tipo de dato de cada variable que hemos creado.
 
 //Escribe tu código aquí
