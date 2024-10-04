@@ -42,7 +42,7 @@ const pet = "perro";
 //Ejercicio 7: cambia el valor de pet a "serpiente" y mira el resultado en consola para comprobar que tu código funciona bien.
 
 
-//Ejercicio 8: Haz el mismo ejercicio 3, pero con el condicional switch.
+//Ejercicio 8: Haz el mismo ejercicio 6, pero con el condicional switch.
 
 //Escribe tu código aquí
 
